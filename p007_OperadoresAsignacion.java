@@ -8,6 +8,11 @@ public class p007_OperadoresAsignacion {
 		float num = new Scanner(System.in).nextFloat();
 		
 		// presentar y eso
-		System.out.printf("Resta no se que: %.2f",num-=35);
+		System.out.printf("Numero original  : %.2f",num);
+		System.out.printf("Incremento  		: %.2f",++num);
+		System.out.printf("Sumar 80		    : %.2f",num+=80);
+		System.out.printf("Restar 35        : %.2f",num-=35);
+		System.out.printf("Multiplicar 15   : %.2f",num*=15);
+		System.out.printf("Decrementar 1    : %.2f",--num);
 	}
 }
