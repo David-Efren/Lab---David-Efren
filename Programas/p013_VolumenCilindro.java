@@ -4,7 +4,7 @@ public class p013_VolumenCilindro {
 	public static void main(String[] args) {
 	    // Declarar
     	Scanner obj = new Scanner(System.in);
-		double R,x,y;// math.sqrt acepta doubles y saca doubles, de otra forma hay perdidas de calidad oor la conversion
+		double R,x,y;
 		
 		System.out.println("Calcular volumen de cilindro.");
 		// Leer
