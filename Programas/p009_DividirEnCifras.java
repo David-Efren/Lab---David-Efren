@@ -16,6 +16,6 @@ public class p009_DividirEnCifras {
 		System.out.printf("\nCentenas   : %d",cent);
 		System.out.printf("\nDecenas    : %d",dec);
 		System.out.printf("\nUnidades   : %d",uni);
-		
+		new Scanner(System.in).close();
 	}
 }

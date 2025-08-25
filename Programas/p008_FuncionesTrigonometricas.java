@@ -12,5 +12,6 @@ public class p008_FuncionesTrigonometricas {
 		double tan = Math.tan(angulor);
 		//salida
 		System.out.printf("\n\nRad: %.2f \nSeno: %.2f\nCoseno: %.2f\nTangente: %.2f",angulor, sen, cos, tan);
+		new Scanner(System.in).close();
 	}
 }
