@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "p029_Calculadora",
+            "request": "launch",
+            "mainClass": "p029_Calculadora",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
             "name": "p038_AceptarEstudiantev2",
             "request": "launch",
             "mainClass": "p038_AceptarEstudiantev2",
