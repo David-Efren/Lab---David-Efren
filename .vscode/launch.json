@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "p038_AceptarEstudiantev2",
+            "request": "launch",
+            "mainClass": "p038_AceptarEstudiantev2",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
+            "name": "p037_CalculoNotas",
+            "request": "launch",
+            "mainClass": "p037_CalculoNotas",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
             "type": "jdk",
             "request": "launch",
             "name": "Launch Java App"
