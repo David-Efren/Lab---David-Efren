@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "p043_ConteoNumeros",
+            "request": "launch",
+            "mainClass": "p043_ConteoNumeros",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
+            "name": "p040_Numeros100a1",
+            "request": "launch",
+            "mainClass": "p040_Numeros100a1",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
             "name": "p029_Calculadora",
             "request": "launch",
             "mainClass": "p029_Calculadora",
