@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "p047_ConjeturaCollatz",
+            "request": "launch",
+            "mainClass": "p047_ConjeturaCollatz",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
+            "name": "p046_TablaConversion",
+            "request": "launch",
+            "mainClass": "p046_TablaConversion",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
+            "name": "p044_ParesAscendente",
+            "request": "launch",
+            "mainClass": "p044_ParesAscendente",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
             "name": "p043_ConteoNumeros",
             "request": "launch",
             "mainClass": "p043_ConteoNumeros",

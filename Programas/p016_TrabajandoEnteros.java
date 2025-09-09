@@ -1,6 +1,7 @@
 // Trabajando con variables y literales enteras
 
 public class p016_TrabajandoEnteros {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		int x = 42;
 		int y = 0x2a;// 42
