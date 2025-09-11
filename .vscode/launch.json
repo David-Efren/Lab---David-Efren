@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "p055_SumaParesImpares",
+            "request": "launch",
+            "mainClass": "p055_SumaParesImpares",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
+            "name": "p052_Numeros1aN",
+            "request": "launch",
+            "mainClass": "p052_Numeros1aN",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
             "name": "p047_ConjeturaCollatz",
             "request": "launch",
             "mainClass": "p047_ConjeturaCollatz",
