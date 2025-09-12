@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "p065_SistemaPapeleria",
+            "request": "launch",
+            "mainClass": "p065_SistemaPapeleria",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
             "name": "p055_SumaParesImpares",
             "request": "launch",
             "mainClass": "p055_SumaParesImpares",
