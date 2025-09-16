@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "p060_SumaTerminos",
+            "request": "launch",
+            "mainClass": "p060_SumaTerminos",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
+            "name": "p058_Piramide",
+            "request": "launch",
+            "mainClass": "p058_Piramide",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
+            "name": "p057_TablasMultiplicar",
+            "request": "launch",
+            "mainClass": "p057_TablasMultiplicar",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
             "name": "p065_SistemaPapeleria",
             "request": "launch",
             "mainClass": "p065_SistemaPapeleria",
