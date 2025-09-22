@@ -22,7 +22,7 @@ public class ep01_PrimerExamenParcial {
 
             System.out.print("\n\n\tIngresa la edad\t:\t"); edad = obj.nextInt();
             
-            // TODO: Usa una estructura if/else para verificar si la edad es permitida (> 13).
+            // Usa una estructura if/else para verificar si la edad es permitida (> 13).
                 if (edad > 13) {
                     do { 
                     System.out.print("\n\tIngresa el tipo de comprador\n\t([1] Estudiante, [2] Adulto, [3] Tercera Edad):\t"); tipo = obj.nextInt();
@@ -76,7 +76,7 @@ public class ep01_PrimerExamenParcial {
         // --- Cálculos y Reporte Final ---
         
         System.out.println("\n===== REPORTE FINAL DE LA FUNCIÓN =====");
-        // TODO: Realiza los cálculos finales que necesites (promedio de edad, totales, etc.).
+        // Realiza los cálculos finales que necesites (promedio de edad, totales, etc.).
         promedio_edad = (total_menores + total_adultos + total_tercera) / 3;
         total_total = total_menores + total_adultos + total_tercera;
         dinero_total = dinero_estudiantes + dinero_adultos + dinero_tercera;
@@ -90,7 +90,7 @@ public class ep01_PrimerExamenParcial {
         System.out.println("Total General      :\t" + total_total);
         System.out.printf("Promedio de Edad\t:\t%.2f\n", promedio_edad);
         System.out.println("\n--- Reporte de Ingresos ---");
-        // TODO: Imprime aquí los resultados de los acumuladores de dinero.
+        // Imprime aquí los resultados de los acumuladores de dinero.
         System.out.printf("Recaudacion de Estudiantes   :\t$\t%.2f\n", dinero_estudiantes);
         System.out.printf("Recaudacion de Adultos       :\t$\t%.2f\n", dinero_adultos);
         System.out.printf("Recaudacion de Tercera Edad  :\t$\t%.2f\n", dinero_tercera);

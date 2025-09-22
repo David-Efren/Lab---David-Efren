@@ -101,3 +101,7 @@
 - p062_SecuenciaNumeros2
 - p063_SumaTerminos1
 - p064_SumaTerminos2
+
+## Parcial 01
+
+- ep01_PrimerExamenParcial
