@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ep01_PrimerExamenParcial",
+            "request": "launch",
+            "mainClass": "Parciales.ep01_PrimerExamenParcial",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
             "name": "p060_SumaTerminos",
             "request": "launch",
             "mainClass": "p060_SumaTerminos",
