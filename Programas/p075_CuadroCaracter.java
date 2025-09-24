@@ -14,7 +14,7 @@ public class p075_CuadroCaracter {
         Scanner obj = new Scanner(System.in);
         int ren, col;
         char car;
-        
+        // cambio para corregir el commit
         System.out.print("\033[H\033[2J"); System.out.flush();
         System.out.println("DIBUJAR UN CUADRO DE CARACTERES");
         System.out.print("\n\tIngresa los renglones :\t"); ren = obj.nextInt();
