@@ -110,7 +110,7 @@
 
 - ep01_PrimerExamenParcial
 
-## Actividad 14
+## Actividad 11
 
 - p066_PromedioNumeros
 - p067_ConversionTemperaturas
@@ -118,7 +118,7 @@
 - p069_TablaMultiplicar
 - p070_CalificacionLetra
 
-## Actividad 15
+## Actividad 12
 
 - p071_MayorTresNumeros
 - p072_SumaDigitos
