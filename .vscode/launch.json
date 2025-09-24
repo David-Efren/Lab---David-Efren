@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "p073_SumaParesImpares",
+            "request": "launch",
+            "mainClass": "p073_SumaParesImpares",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
+            "name": "p072_SumaDigitos",
+            "request": "launch",
+            "mainClass": "p072_SumaDigitos",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
+            "name": "p067_ConversionTemperaturas",
+            "request": "launch",
+            "mainClass": "p067_ConversionTemperaturas",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
             "name": "ep01_PrimerExamenParcial",
             "request": "launch",
             "mainClass": "Parciales.ep01_PrimerExamenParcial",

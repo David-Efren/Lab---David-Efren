@@ -102,6 +102,26 @@
 - p063_SumaTerminos1
 - p064_SumaTerminos2
 
+## Practica 06
+
+- p065_SistemaPapeleria
+
 ## Parcial 01
 
 - ep01_PrimerExamenParcial
+
+## Actividad 14
+
+- p066_PromedioNumeros
+- p067_ConversionTemperaturas
+- p068_SumaRango
+- p069_TablaMultiplicar
+- p070_CalificacionLetra
+
+## Actividad 15
+
+- p071_MayorTresNumeros
+- p072_SumaDigitos
+- p073_SumaParesImpares
+- p074_Factorial
+- p075_CuadroCaracter
