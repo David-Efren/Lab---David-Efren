@@ -124,4 +124,26 @@
 - p072_SumaDigitos
 - p073_SumaParesImpares
 - p074_Factorial
-- p075_CuadroCaracter
+
+## Practica 07
+
+- p076_NumeroMenor
+- p077_DiaSemana
+- p078_MedidasLongitud
+- p079_SumaMultiplos
+- p080_Angulo
+
+## Practica 08
+
+- p090_Temperaturas
+- p091_MayoresPromedio
+- p092_MayorMenor
+- p093_ParesImpares
+
+## Actividad 15
+
+- p094_Empleado01
+- p095_Empleado02
+- p096_Empleado03
+- p097_Empleado04
+

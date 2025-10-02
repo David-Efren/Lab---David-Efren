@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "p080_Angulo",
+            "request": "launch",
+            "mainClass": "p080_Angulo",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
+            "name": "p079_SumaMultiplos",
+            "request": "launch",
+            "mainClass": "p079_SumaMultiplos",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
+            "name": "p076_NumeroMenor",
+            "request": "launch",
+            "mainClass": "p076_NumeroMenor",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "p097_empleado04.App",
