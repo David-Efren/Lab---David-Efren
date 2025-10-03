@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "p083_InicializaNombresEdades",
+            "request": "launch",
+            "mainClass": "p083_InicializaNombresEdades",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
             "name": "p080_Angulo",
             "request": "launch",
             "mainClass": "p080_Angulo",

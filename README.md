@@ -133,6 +133,14 @@
 - p079_SumaMultiplos
 - p080_Angulo
 
+## Actividad 13
+
+- p081_InicializaArregloNumeros
+- p082_InicializaArregloCadenas
+- p083_InicializaNombresEdades
+- p084_LeerArregloCalificaciones
+- p085_NombresEdades
+
 ## Practica 08
 
 - p090_Temperaturas
