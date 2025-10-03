@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class p087_ArregloTemperaturas {
 	public static void mostrar(double[] x) {
 		for (int i=0; i<x.length;i++)
@@ -18,7 +20,7 @@ public class p087_ArregloTemperaturas {
 		return m;
 	}
 	
-	public static double mayor(double[] x) {
+	public static int buscar(double[] x, double b) {
 		int pos = -1;
 		for (int i = 0; i<x.length;i++)
 			if (x[i] == b) {
@@ -39,7 +41,8 @@ public class p087_ArregloTemperaturas {
 		//Busqueda con la nuestra
 		System.out.print("\nElemento a buscar :\t");
 		double bus = new Scanner(System.in).nextDouble();
-		if(pos != -1) 
+		int pos = buscar(temps, bus);
+		if(pos != -1)
 			System.out.println("\tEncontrado en posición " + pos);
 		else
 			System.out.println("\tNo");

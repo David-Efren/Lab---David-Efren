@@ -1,3 +1,6 @@
+
+import java.util.Random;
+
 public class p088_Aleatorios {
 	public static void main(String[] args) {
 		Random rnd = new Random();
@@ -9,7 +12,7 @@ public class p088_Aleatorios {
 		int a3 = rnd.nextInt(max+min+1); //100...300 
 		
 		System.out.println("Número aleatorio\t" + a1);
-		System.out.println("Número aleatorio 1 - 30\t" + a1);
+		System.out.println("Número aleatorio 1 - 30\t" + a2);
 		System.out.println("Número aleatorio 100 - 300\t" + a3);
 	}
 }

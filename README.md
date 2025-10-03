@@ -141,6 +141,13 @@
 - p084_LeerArregloCalificaciones
 - p085_NombresEdades
 
+## Actividad 14
+
+- p086_ArregloMostrar
+- p087_ArregloTemperaturas
+- p088_Aleatorios
+- p089_ArregloAleatorios
+
 ## Practica 08
 
 - p090_Temperaturas

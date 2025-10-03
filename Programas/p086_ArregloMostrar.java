@@ -6,7 +6,6 @@ public class p086_ArregloMostrar {
 	public static void cuadrado(int[] x) {
 		for (int i=0; i<x.length;i++)
 			x[i] = x[i] * x[i];
-		return x[];
 	}
 	public static void main(String[] args) {
 		int A[] = {2,4,6,8,10,12,14,16};
