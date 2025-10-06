@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "p100_Articulo.App",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "p099_Rectangulo.App",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "p098_Circulo.App",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
             "name": "p083_InicializaNombresEdades",
             "request": "launch",
             "mainClass": "p083_InicializaNombresEdades",

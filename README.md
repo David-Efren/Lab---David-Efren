@@ -161,3 +161,9 @@
 - p095_Empleado02
 - p096_Empleado03
 - p097_Empleado04
+
+## Practica 09
+
+- p098_Circulo
+- p099_Rectangulo
+- p100_Articulo
