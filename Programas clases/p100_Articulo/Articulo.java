@@ -6,7 +6,7 @@ public class Articulo {
     private int cant;
     private double precioUnit;
 
-    articulo() {}
+    public Articulo() {}
 
     public Articulo(String id, String desc, int cant, double precioUnit) {
         this.id = id;
