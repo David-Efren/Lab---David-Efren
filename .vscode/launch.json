@@ -8,6 +8,20 @@
             "type": "java",
             "name": "App",
             "request": "launch",
+            "mainClass": "p103_ClienteFactura.App",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "p102_AutorLibro.App",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
             "mainClass": "p101_TrabajoPersona.App",
             "projectName": "Lab---David-Efren_703b5c45"
         },
