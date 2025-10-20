@@ -8,6 +8,13 @@
             "type": "java",
             "name": "App",
             "request": "launch",
+            "mainClass": "p113_SegundoExamenParcial.App",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
             "mainClass": "p105_PuntoTriangulo.App",
             "projectName": "Lab---David-Efren_703b5c45"
         },
