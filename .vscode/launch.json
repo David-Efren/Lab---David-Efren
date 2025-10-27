@@ -8,6 +8,20 @@
             "type": "java",
             "name": "App",
             "request": "launch",
+            "mainClass": "p109_FormaV2.App",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "p107_Forma.App",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
             "mainClass": "p113_SegundoExamenParcial.App",
             "projectName": "Lab---David-Efren_703b5c45"
         },

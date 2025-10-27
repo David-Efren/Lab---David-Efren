@@ -1,0 +1,60 @@
+package p108_Vehiculo;
+
+public class Vehiculo {
+    private String serie;
+    private String marca;
+    private int año;
+    private double precio;
+
+    public Vehiculo() {}
+
+    public Vehiculo(String serie, String marca, int año, double precio) {
+        this.serie = serie;
+        this.marca = marca;
+        this.año = año;
+        this.precio = precio;
+    }
+
+    public String getSerie() {
+        return serie;
+    }
+
+    public void setSerie(String serie) {
+        this.serie = serie;
+    }
+
+    public String getMarca() {
+        return marca;
+    }
+
+    public void setMarca(String marca) {
+        this.marca = marca;
+    }
+
+    public int getAño() {
+        return año;
+    }
+
+    public void setAño(int año) {
+        this.año = año;
+    }
+
+    public double getPrecio() {
+        return precio;
+    }
+
+    public void setPrecio(double precio) {
+        this.precio = precio;
+    }
+
+    @Override
+    public String toString() {
+        return """
+                Vehiculo :
+                \tserie  :\t%s
+                \tmarca  :\t%s
+                \taño    :\t%s
+                \tprecio :\t%s
+                """.formatted(serie, marca, año, precio); // Bloque de texto.
+    }
+}

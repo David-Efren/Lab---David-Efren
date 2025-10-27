@@ -183,3 +183,24 @@
 
 - p106_Persona
 - p107_Forma
+
+## Practica 11
+
+- p108_Vehiculo
+- p109_FormaV2
+
+## Actividad 18
+
+- p110_CuentaBancariaV1
+
+## Actividad 19
+
+- p111_CuentaBancariaV2
+
+## Practica 12
+
+- p112_ControlVentas
+
+## Parcial 02
+
+- p113_SegundoExamenParcial
