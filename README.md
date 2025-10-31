@@ -204,3 +204,16 @@
 ## Parcial 02
 
 - p113_SegundoExamenParcial
+
+## Actividad 20
+
+- p114_Animal
+- p115_Telefono
+- p116_Juego
+- p117_FiguraGeometrica
+
+## Actividad 21
+
+- p118_Calculadora
+- p119_Organismo
+

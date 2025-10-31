@@ -8,6 +8,13 @@
             "type": "java",
             "name": "App",
             "request": "launch",
+            "mainClass": "p117_FiguraGeometrica.App",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
             "mainClass": "p109_FormaV2.App",
             "projectName": "Lab---David-Efren_703b5c45"
         },
