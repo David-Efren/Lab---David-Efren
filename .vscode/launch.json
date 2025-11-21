@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AppJugador",
+            "request": "launch",
+            "mainClass": "p146_Fifa.AppJugador",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
+            "name": "p125_Excepcion5",
+            "request": "launch",
+            "mainClass": "p125_Excepcion5",
+            "projectName": "Lab---David-Efren_703b5c45"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "p117_FiguraGeometrica.App",
